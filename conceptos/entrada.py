@@ -1,8 +1,5 @@
-# Solicitar al usuario su nombre
-print("Escriba su nombre:")
-
-# Declarar una nueva variable llamada nombre con la entrada del usuario
-nombre = input()
+# Solicitar al usuario su nombre y declarar una nueva variable llamada nombre con la entrada del usuario en la misma linea
+nombre = input("Escriba su nombre: \n")
 
 # Solicitar al usuario su edad
 print("Escriba su edad:")
